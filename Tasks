@@ -17,3 +17,8 @@ Data type converison:  16 pgm
 
 int to float / bool / str / complex 
 float to int / bool / str / complex
+
+
+understand string formatting in python
+Write a program to find area of cone ? (pi constant, others ==> dynamic input from user, Output ==> interger) Use format function
+Understand string indexing and slicing
