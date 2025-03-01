@@ -9,3 +9,11 @@ Single line comment and multi line comment
 difference between " , ' , """ , '''
 Diff types of operators
 Type error and name error 
+
+
+Tasks: March 1:
+
+Data type converison:  16 pgm
+
+int to float / bool / str / complex 
+float to int / bool / str / complex
